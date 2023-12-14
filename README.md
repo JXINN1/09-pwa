@@ -11,7 +11,9 @@ Download the repository from this git, run the index.html via the VSCode Live se
 
 To use the pwa, you should be able to download the app using the browser after you run the code.
 
-To get the app on mobile, Put your id address in font of the port number you got from Live Server, run it on mobile browser and add the app on homescreen.
+To get the app on mobile, Put your id address in font of the port number you got from Live Server, 
+
+run it on mobile browser and add the app on homescreen.
 
 
 ## Process of developing
