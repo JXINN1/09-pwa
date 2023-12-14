@@ -1,4 +1,7 @@
-# Cookit
+# 09 Progressive Web App
+*The Final assignment for the ReCode class at NYU's IMA program, Fall 2023.*
+
+## Cookit
 
 Cookit is a recipe app that uses meadDB API. Features include random recipe suggestions, finding recipes by name, and sorting the recipe based on fewer ingredients or shorter instructions. Rather than just fetching recipes based on the name, I wanted to add features such as sorting by the criteria mentioned above or saving favorite recipes.
  
