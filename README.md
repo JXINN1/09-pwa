@@ -3,13 +3,16 @@
 
 ## Cookit
 
-Cookit is a recipe app that uses meadDB API. Features include random recipe suggestions, finding recipes by name, and sorting the recipe based on fewer ingredients or shorter instructions. Rather than just fetching recipes based on the name, I wanted to add features such as sorting by the criteria mentioned above or saving favorite recipes.
+Cookit is a recipe app that uses mealDB API. Features include random recipe suggestions, finding recipes by name, and sorting the recipe based on fewer ingredients or shorter instructions. Rather than just fetching recipes based on the name, I wanted to add features such as sorting by the criteria mentioned above or saving favorite recipes.
  
 ## Installation
 
-Download the repository from this git, run the index.html via the VSCode Live server.
+Download the repository from this git, run the index.html via the VSCode Live server and get port number(ex.5500,3000).
 
 To use the pwa, you should be able to download the app using the browser after you run the code.
+
+Put your id address in font of the port number you got from Live Server and run it on mobile browser, and add the app on homescreen.
+
 
 ## Process of developing
 
@@ -97,7 +100,8 @@ The web app didn't run well when opening it in mobile enviornment, so I added mo
     }
 }
 ```
-Here is the before and after:
 
-## Running images
+## App images
+
+<img src="https://github.com/JXINN1/07-assignment/assets/146362069/7f250776-adfd-4b6a-b252-21d6ed916790" width="18%"></img> <img src="https://github.com/JXINN1/07-assignment/assets/146362069/621b4168-3f6f-40e3-a24b-38ca21892aba" width="18%"></img> <img src="https://github.com/JXINN1/07-assignment/assets/146362069/ff6f4401-ef70-498a-bda5-fdf7ab886e60" width="18%"></img> <img src="https://github.com/JXINN1/07-assignment/assets/146362069/7234c449-877d-4479-bb72-373bbb8e5773" width="18%"></img> <img src="https://github.com/JXINN1/07-assignment/assets/146362069/82cb5c76-ba8b-40a0-adf4-427b8938bb1b" width="18%"></img> 
 
