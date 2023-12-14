@@ -7,11 +7,11 @@ Cookit is a recipe app that uses mealDB API. Features include random recipe sugg
  
 ## Installation
 
-Download the repository from this git, run the index.html via the VSCode Live server and get port number(ex.5500,3000).
+Download the repository from this git, run the index.html via the VSCode Live server and get port.
 
 To use the pwa, you should be able to download the app using the browser after you run the code.
 
-Put your id address in font of the port number you got from Live Server and run it on mobile browser, and add the app on homescreen.
+To get the app on mobile, Put your id address in font of the port number you got from Live Server, run it on mobile browser and add the app on homescreen.
 
 
 ## Process of developing
