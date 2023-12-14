@@ -1,4 +1,4 @@
-# 09 PWA
+# 09 - PWA
 *The Final Assignment for the Re:Code class at NYU's IMA program, Fall 2023.*
 
 ## Cookit
