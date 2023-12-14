@@ -1,5 +1,5 @@
 # 09 Progressive Web App
-*The Final assignment for the ReCode class at NYU's IMA program, Fall 2023.*
+*The Final Assignment for the Re:Code class at NYU's IMA program, Fall 2023.*
 
 ## Cookit
 
