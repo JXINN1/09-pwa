@@ -1,0 +1,29 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "Cookit",
+    "short_name": "Cookit",
+    "description": "A p5 PWA cooking app!",
+    "start_url": "./",
+    "background_color": "rgb(255,192,203)",
+    "theme-color": "#c8c8c8",
+    "display": "fullscreen",
+    "icons": [
+        {
+            "src": "./images/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "id": "recode"
+}
