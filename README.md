@@ -18,7 +18,6 @@ run it on mobile browser and add the app on homescreen.
 
 ## Process of developing
 
-Using the mealDB was easy,
 ```javascript
 async function getRandomMeal() {
     const response = await fetch(
@@ -30,7 +29,7 @@ async function getRandomMeal() {
     addMeal(randomMeal, true);
 }
 ```
-the API provided a test API key('1') to use the API for free. Further functions are provided with funding the mealDB. This is a function where I used 'random' from the mealDB to generate a random recipe when users first load the app.
+The mealDB API provided a test API key('1') to use the API for free. Further functions are provided with funding the mealDB. This is a function where I used 'random' from the mealDB to generate a random recipe when users first load the app.
 
 To add the sorting feature:
 ```javascript
